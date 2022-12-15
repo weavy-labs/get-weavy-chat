@@ -1,0 +1,6 @@
+[submodule "JavaScript/weavy-dropin-js"]
+	path = JavaScript/weavy-dropin-js
+	url = https://github.com/weavy/weavy-dropin-js
+[submodule "React/weavy-uikit-react"]
+	path = React/weavy-uikit-react
+	url = https://github.com/weavy/weavy-uikit-react
